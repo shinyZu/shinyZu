@@ -1,4 +1,4 @@
-![](https://github.com/shinyZu/shinyZu/blob/main/template%20(3).png)
+![](https://github.com/shinyZu/shinyZu/blob/main/headerImage.png)
 ### Hi there 👋,
 
 I'm looking forward to achieve a greater success through delivering optimum contribution for the working institute and improve my career life by exercising my skills and knowledge in a dynamic and challenge-able working environment.
