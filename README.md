@@ -1,8 +1,7 @@
-
+![](https://github.com/shinyZu/shinyZu/blob/main/template%20(3).png)
 ### Hi there 👋,
-# I'm Shiny Isurandi...
 
-Looking forward to achieve a greater success through delivering optimum contribution for the working institute and improve my career life by exercising my skills and knowledge in a dynamic and challenge-able working environment.
+I'm looking forward to achieve a greater success through delivering optimum contribution for the working institute and improve my career life by exercising my skills and knowledge in a dynamic and challenge-able working environment.
 
 ### **Skills & Experience:**  
         *HTML 
