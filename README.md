@@ -1,14 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shiny Isurandi</h1>
-<h3 align="center">I am passionate about leveraging my skills and knowledge to contribute to impactful projects and thrive in dynamic and challenging environments.
-</h3>
+<h4 align="justify">A proactive Software Engineer with 1.5 years of full-stack development experience and a First-Class Honours in BSc (Hons) in Computer Science and Software Engineering, bestowed with the Award for Best Performance from the University of Bedfordshire. Skilled in Java, SpringBoot, JavaScript, the MERN stack, and databases (MySQL, MongoDB), with hands-on experience in Docker, Kubernetes, cloud platforms (AWS, Azure), and Agile methodologies. I am keen on CI/CD and DevOps practices and adept at delivering high-quality solutions in collaborative, innovative environments.
+</h4>
+</br>
 
-- **👨‍🎓** Graduated from:  SLIIT affiliated with **University of Bedfordshire**
+- **👨‍🎓** Graduated from:  SLIIT City Uni affiliated with **University of Bedfordshire**
 
 - **🎓** Graduated stream: **Bachelor of Science with Honours in Computer Science and Software Engineering**
 
-- **📆** Graduated year: **2024** 
-
 - **🥇** Classification: **First class**
+
+- **🏆** Bestowed with the **Award for Best Performance** validated by the **University of Bedfordshire**.
+
+- **📆** Graduated year: **2024** 
 
 - **🌱** I’m currently learning **CI/CD with Docker and Jenkins**
 
